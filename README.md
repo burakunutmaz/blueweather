@@ -4,6 +4,7 @@ Project BLUEWEATHER
 ### Description
 Project BlueWeather is a weather forecast application for android. It lists the locations closest to you.</br>
 It then provides the 7-day weather forecast for the selected location.</br>
+Weather forecast information gathered from https://www.metaweather.com/</br>
 
 ### How to run
 >* Download the .zip file (Code -> Download ZIP on GitHub)
